@@ -1,5 +1,5 @@
-## 17-03-2022
+## 23-03-2022
 
-`@codeimage/app@0.10.1`
+`@codeimage/app@0.13.3`
 
-- chore: update logos
+- fix: fix editor frame size and resizing
